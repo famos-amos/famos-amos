@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @famos-amos
-- 👀 I live in Detroit, MI and im' interested in tech, Embedded Systems, functional safety and D&I topics. I also have a strong passion for spirituality and it's connections to inner healing
-- 🌱 I’m currently learning how to use GitHub and re-learning C coding
-- 💞️ I’m looking to collaborate on a mysetery project yet to be revealed that will change the world
+- 👀 I live in California, I'm interested in tech, Embedded Systems, functional safety and D&I topics. I also have a strong passion for spirituality and it's connections to inner healing
+- 🌱 I’m currently learning how to R and Python 
+- 💞️ I’m looking to colab on a project 
 - 📫 How to reach me via this channel
 
 <!---
